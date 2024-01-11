@@ -1,0 +1,17 @@
+package sec04.exam05;
+
+public class Car {
+	//필드
+	int speed;
+	
+	//생성자
+	
+	//메소드
+	int getSpeed() {
+		return speed;
+	}
+	
+	void keyTurnOn() {
+		System.out.println("키를 돌립니다");
+	}
+}
