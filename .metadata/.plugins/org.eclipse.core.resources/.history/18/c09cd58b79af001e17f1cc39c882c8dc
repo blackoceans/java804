@@ -1,0 +1,20 @@
+package sec02.exam02;
+
+public class Exam01 {
+
+	public static void main(String[] args) {
+		int max = 0;
+		int[] array = { 1, 5, 3, 8, 2};
+		
+		for(i=0, i<5, i++) {
+			if(max < array[i]) {
+				max = array
+				
+			}
+		}
+		
+		System.out.println("max: " + max);
+
+	}
+
+}

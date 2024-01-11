@@ -1,0 +1,19 @@
+package sec03.exam03;
+
+public class CarExample {
+
+	public static void main(String[] args) {
+		Car car4 = new Car("택시", "검정", 200);
+		System.out.println("car4.company : " + car4.company);
+		System.out.println();
+
+
+		Car car4 = new Car("택시", "검정", 200);
+		System.out.println("car4.company : " + car4.company);
+		System.out.println("car4.model : " + car4.model);
+		System.out.println("car4.color : " + car4.color);
+		System.out.println("car4.maxSpeed : " + car4.maxSpeed);
+
+	}
+
+}

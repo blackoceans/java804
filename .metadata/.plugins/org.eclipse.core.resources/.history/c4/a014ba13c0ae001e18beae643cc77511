@@ -1,0 +1,12 @@
+package sec03.exam02;
+import java.util.Calendar; // 컨+쉽+O
+public class EnumWeekExample {
+
+	public static void main(String[] args) {
+		Week today = null;
+		
+		Calendar cal = Calendar.getInstance(); 
+
+	}
+
+}
