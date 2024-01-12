@@ -1,0 +1,6 @@
+package sec06.exam03.package2;
+
+public class C {
+	A a;
+	//다른 패키지꺼 못 불러옴
+}
