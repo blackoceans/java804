@@ -3,21 +3,12 @@ package test.test10;
 public class TTTest {
 
 	public static void main(String[] args) {
-		int max = 0;
-		int[] array = { 1, 5, 3, 8, 2 };
-		
-			for(int i=0; i<5; i++) {
-				if(max<array[i]) {
-					max = array[i];
-				}
-			}
-				
-			
-		
-		
-		
-		System.out.println("max: " + max);
-		
+		 int sum = 0;
+	     int i = 0;
+	      	for(i=0; i<=100; i+=3) {
+	      		sum += i;
+	      }
+	      System.out.println(sum);
 	}
 
 }
