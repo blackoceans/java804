@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="sec06.exam02.kumho.Tire"/>
 <fullyQualifiedTypeName name="sec06.exam05.package1.A"/>
+<fullyQualifiedTypeName name="sec01.exam01.A.B"/>
+<fullyQualifiedTypeName name="sec01.exam01.A.C"/>
+<fullyQualifiedTypeName name="sec01.exam06.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
