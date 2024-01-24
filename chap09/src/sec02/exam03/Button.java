@@ -1,4 +1,4 @@
-package test;
+package sec02.exam03;
 
 public class Button {
 	OnClickListener listener;
@@ -7,11 +7,11 @@ public class Button {
 		this.listener = listener;
 	}
 	
-	void touch () { 
+	void touch() {
 		listener.onClick();
 	}
 	
 	static interface OnClickListener {
-		void onClick();
+		void onClick ();
 	}
 }

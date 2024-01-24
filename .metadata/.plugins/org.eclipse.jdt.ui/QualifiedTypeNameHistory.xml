@@ -6,4 +6,6 @@
 <fullyQualifiedTypeName name="sec01.exam01.A.C"/>
 <fullyQualifiedTypeName name="sec01.exam06.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="test.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02.test01.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
