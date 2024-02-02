@@ -9,4 +9,6 @@
 <fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="sec02.test01.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Objects"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
